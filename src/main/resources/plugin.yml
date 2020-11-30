@@ -1,0 +1,4 @@
+name: SubtleAntiCheat
+version: ${project.version}
+main: subtleanticheat.subtleanticheat.SubtleAntiCheat.SAC
+api-version: 1.13
